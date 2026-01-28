@@ -5,7 +5,6 @@ Hi! I am a fullstack software engineer based in Australia.
 * 🖥️  See my portfolio at [benngu.com](https://benngu.com)
 * 📝  Checkout my personal blog at [blog.benngu.com](https://blog.benngu.com)
 * ✉️  Contact me at [benjaminnguyen@benngu.com](mailto:benjaminnguyen@benngu.com)
-* 🚀  Currently working on [gotmapi (Unofficial Youtube Music API in Golang)](https://github.com/nebbyJammin/gotmapi)
 
 ### Languages
 <p align="left">
